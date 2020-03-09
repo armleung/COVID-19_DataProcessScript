@@ -1,0 +1,109 @@
+,flag,name,population,region
+0,https://restcountries.eu/data/afg.svg,Afghanistan,27657145,Asia
+1,https://restcountries.eu/data/dza.svg,Algeria,40400000,Africa
+2,https://restcountries.eu/data/and.svg,Andorra,78014,Europe
+3,https://restcountries.eu/data/arg.svg,Argentina,43590400,Americas
+4,https://restcountries.eu/data/arm.svg,Armenia,2994400,Asia
+5,https://restcountries.eu/data/aus.svg,Australia,24117360,Oceania
+6,https://restcountries.eu/data/aut.svg,Austria,8725931,Europe
+7,https://restcountries.eu/data/aze.svg,Azerbaijan,9730500,Asia
+8,https://restcountries.eu/data/bhr.svg,Bahrain,1404900,Asia
+9,https://restcountries.eu/data/bgd.svg,Bangladesh,161006790,Asia
+10,https://restcountries.eu/data/blr.svg,Belarus,9498700,Europe
+11,https://restcountries.eu/data/bel.svg,Belgium,11319511,Europe
+12,https://restcountries.eu/data/btn.svg,Bhutan,775620,Asia
+13,https://restcountries.eu/data/bih.svg,Bosnia and Herzegovina,3531159,Europe
+14,https://restcountries.eu/data/bra.svg,Brazil,206135893,Americas
+15,https://restcountries.eu/data/bgr.svg,Bulgaria,7153784,Europe
+16,https://restcountries.eu/data/khm.svg,Cambodia,15626444,Asia
+17,https://restcountries.eu/data/cmr.svg,Cameroon,22709892,Africa
+18,https://restcountries.eu/data/can.svg,Canada,36155487,Americas
+19,https://restcountries.eu/data/chl.svg,Chile,18191900,Americas
+20,https://restcountries.eu/data/col.svg,Colombia,48759958,Americas
+21,https://restcountries.eu/data/cri.svg,Costa Rica,4890379,Americas
+22,https://restcountries.eu/data/hrv.svg,Croatia,4190669,Europe
+23,https://restcountries.eu/data/cze.svg,Czech Republic,10558524,Europe
+24,https://restcountries.eu/data/dnk.svg,Denmark,5717014,Europe
+25,https://restcountries.eu/data/dom.svg,Dominican Republic,10075045,Americas
+26,https://restcountries.eu/data/ecu.svg,Ecuador,16545799,Americas
+27,https://restcountries.eu/data/egy.svg,Egypt,91290000,Africa
+28,https://restcountries.eu/data/est.svg,Estonia,1315944,Europe
+29,https://restcountries.eu/data/fro.svg,Faroe Islands,49376,Europe
+30,https://restcountries.eu/data/fin.svg,Finland,5491817,Europe
+31,https://restcountries.eu/data/fra.svg,France,66710000,Europe
+32,https://restcountries.eu/data/guf.svg,French Guiana,254541,Americas
+33,https://restcountries.eu/data/geo.svg,Georgia,3720400,Asia
+34,https://restcountries.eu/data/deu.svg,Germany,81770900,Europe
+35,https://restcountries.eu/data/gib.svg,Gibraltar,33140,Europe
+36,https://restcountries.eu/data/grc.svg,Greece,10858018,Europe
+37,https://restcountries.eu/data/hkg.svg,Hong Kong,7324300,Asia
+38,https://restcountries.eu/data/hun.svg,Hungary,9823000,Europe
+39,https://restcountries.eu/data/isl.svg,Iceland,334300,Europe
+40,https://restcountries.eu/data/iot.svg,India,3000,Africa
+41,https://restcountries.eu/data/idn.svg,Indonesia,258705000,Asia
+42,https://restcountries.eu/data/irn.svg,Iran,79369900,Asia
+43,https://restcountries.eu/data/irq.svg,Iraq,37883543,Asia
+44,https://restcountries.eu/data/irl.svg,Ireland,6378000,Europe
+45,https://restcountries.eu/data/isr.svg,Israel,8527400,Asia
+46,https://restcountries.eu/data/ita.svg,Italy,60665551,Europe
+47,https://restcountries.eu/data/jpn.svg,Japan,126960000,Asia
+48,https://restcountries.eu/data/jor.svg,Jordan,9531712,Asia
+49,https://restcountries.eu/data/kwt.svg,Kuwait,4183658,Asia
+50,https://restcountries.eu/data/lva.svg,Latvia,1961600,Europe
+51,https://restcountries.eu/data/lbn.svg,Lebanon,5988000,Asia
+52,https://restcountries.eu/data/lie.svg,Liechtenstein,37623,Europe
+53,https://restcountries.eu/data/ltu.svg,Lithuania,2872294,Europe
+54,https://restcountries.eu/data/lux.svg,Luxembourg,576200,Europe
+55,https://restcountries.eu/data/mac.svg,Macau,649100,Asia
+56,https://restcountries.eu/data/chn.svg,China,1377422166,Asia
+57,https://restcountries.eu/data/mys.svg,Malaysia,31405416,Asia
+58,https://restcountries.eu/data/mdv.svg,Maldives,344023,Asia
+59,https://restcountries.eu/data/mlt.svg,Malta,425384,Europe
+60,https://restcountries.eu/data/mtq.svg,Martinique,378243,Americas
+61,https://restcountries.eu/data/mex.svg,Mexico,122273473,Americas
+62,https://restcountries.eu/data/mda.svg,Moldova,3553100,Europe
+63,https://restcountries.eu/data/mco.svg,Monaco,38400,Europe
+64,https://restcountries.eu/data/mar.svg,Morocco,33337529,Africa
+65,https://restcountries.eu/data/npl.svg,Nepal,28431500,Asia
+66,https://restcountries.eu/data/nld.svg,Netherlands,17019800,Europe
+67,https://restcountries.eu/data/nzl.svg,New Zealand,4697854,Oceania
+68,https://restcountries.eu/data/nga.svg,Nigeria,186988000,Africa
+69,https://restcountries.eu/data/mkd.svg,North Macedonia,2058539,Europe
+70,https://restcountries.eu/data/nor.svg,Norway,5223256,Europe
+71,https://restcountries.eu/data/omn.svg,Oman,4420133,Asia
+72,https://cdn.iconscout.com/icon/free/png-256/ship-pessanger-boat-transportation-vehicle-emoj-symbol-30767.png,Diamond Princess,3770,Asia
+73,https://restcountries.eu/data/pak.svg,Pakistan,194125062,Asia
+74,https://restcountries.eu/data/pse.svg,Palestine,4682467,Asia
+75,https://restcountries.eu/data/pry.svg,Paraguay,6854536,Americas
+76,https://restcountries.eu/data/per.svg,Peru,31488700,Americas
+77,https://restcountries.eu/data/phl.svg,Philippines,103279800,Asia
+78,https://restcountries.eu/data/pol.svg,Poland,38437239,Europe
+79,https://restcountries.eu/data/prt.svg,Portugal,10374822,Europe
+80,https://restcountries.eu/data/qat.svg,Qatar,2587564,Asia
+81,https://restcountries.eu/data/irl.svg,Republic of Ireland,6378000,Europe
+82,https://restcountries.eu/data/rou.svg,Romania,19861408,Europe
+83,https://restcountries.eu/data/rus.svg,Russia,146599183,Europe
+84,https://restcountries.eu/data/blm.svg,Saint Barthelemy,9417,Americas
+85,https://restcountries.eu/data/smr.svg,San Marino,33005,Europe
+86,https://restcountries.eu/data/sau.svg,Saudi Arabia,32248200,Asia
+87,https://restcountries.eu/data/sen.svg,Senegal,14799859,Africa
+88,https://restcountries.eu/data/srb.svg,Serbia,7076372,Europe
+89,https://restcountries.eu/data/sgp.svg,Singapore,5535000,Asia
+90,https://restcountries.eu/data/svk.svg,Slovakia,5426252,Europe
+91,https://restcountries.eu/data/svn.svg,Slovenia,2064188,Europe
+92,https://restcountries.eu/data/zaf.svg,South Africa,55653654,Africa
+93,https://restcountries.eu/data/kor.svg,South Korea,50801405,Asia
+94,https://restcountries.eu/data/esp.svg,Spain,46438422,Europe
+95,https://restcountries.eu/data/lka.svg,Sri Lanka,20966000,Asia
+96,https://restcountries.eu/data/swe.svg,Sweden,9894888,Europe
+97,https://restcountries.eu/data/che.svg,Switzerland,8341600,Europe
+98,https://restcountries.eu/data/twn.svg,Taiwan,23503349,Asia
+99,https://restcountries.eu/data/tha.svg,Thailand,65327652,Asia
+100,https://restcountries.eu/data/tgo.svg,Togo,7143000,Africa
+101,https://restcountries.eu/data/tun.svg,Tunisia,11154400,Africa
+102,https://restcountries.eu/data/ukr.svg,UK,42692393,Europe
+103,https://restcountries.eu/data/aus.svg,US,24117360,Oceania
+104,https://restcountries.eu/data/ukr.svg,Ukraine,42692393,Europe
+105,https://restcountries.eu/data/are.svg,United Arab Emirates,9856000,Asia
+106,https://restcountries.eu/data/vat.svg,Vatican City,451,Europe
+107,https://restcountries.eu/data/vnm.svg,Vietnam,92700000,Asia
